@@ -2,6 +2,7 @@
 <resources>
         <declare-styleable name="TextViewEditableOnTap">
             <attr name="text" format="reference|string" />
+            <attr name="maxLinesEdit" format="integer" />
         </declare-styleable>
 
     <declare-styleable name="AspectRatioImageView">
